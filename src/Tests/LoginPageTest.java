@@ -8,5 +8,6 @@ public class LoginPageTest {
 		String un="vishal";
 		String pwd="raymal";
 		System.out.println("Logged in...");
+		System.out.println("Logged out...");
 	}
 }
