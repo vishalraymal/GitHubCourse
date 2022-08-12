@@ -10,6 +10,7 @@ public class ClassicPage {
 		System.out.println(div);
 		System.out.println("bye here");
 		System.out.println("Vishal R");
+		int sal =12;
 	}
 
 }
