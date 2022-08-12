@@ -14,5 +14,9 @@ public class ClassicPage {
 		int age=32;
 
 	}
+	
+	public void master(){
+		String name="Vishal R";
+	}
 
 }
