@@ -18,5 +18,8 @@ public class ClassicPage {
 	public void master(){
 		String name="Vishal R";
 	}
+	public void master1(){
+		String name="Shashant VIshal R";
+	}
 
 }
