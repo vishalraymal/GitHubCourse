@@ -17,6 +17,7 @@ public class ClassicPage {
 		int h=10;
 		int m1=20;
 		int n=10;
+		int k11=20;
 	}
 	
 	public void master(){
