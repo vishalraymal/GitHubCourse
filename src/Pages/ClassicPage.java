@@ -10,13 +10,9 @@ public class ClassicPage {
 		System.out.println(div);
 		System.out.println("bye here");
 		System.out.println("Vishal R");
-<<<<<<< Updated upstream
 		int sal =12;
-=======
 		int age=32;
-		int sal =12;
 
->>>>>>> Stashed changes
 	}
 
 }
