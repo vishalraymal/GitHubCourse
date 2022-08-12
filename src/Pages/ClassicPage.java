@@ -12,6 +12,9 @@ public class ClassicPage {
 		System.out.println("Vishal R");
 		int sal =15;
 		int age=32;
+		
+		System.out.println("hi classic");
+		int h=10;
 
 	}
 
