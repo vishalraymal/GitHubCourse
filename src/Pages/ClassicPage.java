@@ -17,5 +17,9 @@ public class ClassicPage {
 		int h=10;
 
 	}
+	
+	public void master(){
+		String name="Vishal R";
+	}
 
 }
