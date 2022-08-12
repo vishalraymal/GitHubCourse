@@ -16,7 +16,7 @@ public class ClassicPage {
 		System.out.println("hi classic");
 		int h=10;
 		int m1=20;
-
+		int n=10;
 	}
 	
 	public void master(){
